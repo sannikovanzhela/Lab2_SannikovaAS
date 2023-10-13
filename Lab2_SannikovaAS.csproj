@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Lab1_SannikovaAS\RegistrationApp_Test.csproj" />
     <ProjectReference Include="..\..\Triangle\TriangleApp\TriangleApp.csproj" />
   </ItemGroup>
 
